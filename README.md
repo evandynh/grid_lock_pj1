@@ -27,3 +27,9 @@ Aside from that, enjoy the game!
 - As a player, I want to have a reset button so that I can reset the game whenever I want.
 - As a player, I'd like to know which level I'm on so that  can keep track of my progress.
 - As a player, I'd like to have an info button that shows me the rules of the game in case I don't know how to play.
+
+##Technologies Used
+- HTML
+- CSS 
+- Javascript / jQuery
+- Canvas
