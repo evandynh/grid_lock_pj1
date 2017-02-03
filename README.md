@@ -21,12 +21,17 @@ Aside from that, enjoy the game!
 ##MVP
 - Making dynamic board in which blocks can be dragged and moved with the click of a mouse 
 - Create a running timer that starts at the click of a button.
-- create a winning display message that displays the time and personal best.
-- As a player, I'd like to receive a message when I've completed the level with the time it took me to complete it and a button to continue to the next level or try again.
-- As a player, I want to see my personal best for each level so that I can try to beat it or brag to friends.
-- As a player, I want to have a reset button so that I can reset the game whenever I want.
-- As a player, I'd like to know which level I'm on so that  can keep track of my progress.
-- As a player, I'd like to have an info button that shows me the rules of the game in case I don't know how to play.
+- Create a winning display message that displays the time and personal best.
+- Create a pop up window (modul for custom pop up window) with a winning message.
+- Winning message should display the time taken to complete the level as well as the personal best.
+- Create a reset button that repositions the blocks back to their original spots.
+- Display the current level and personal best at the bottom of the screen.
+- Create an info button that shows players how to play.
+
+##Stretch Goals
+- Create color buttons that allow players to custom the color of there piece.
+- Create as many levels as possible
+- Have the winning message show you the difference between your personal best and current score.
 
 ##Technologies Used
 - HTML
