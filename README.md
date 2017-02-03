@@ -10,4 +10,10 @@ Rules are simple:
 
 Aside from that, enjoy the game!
 
-TRELLO: https://trello.com/b/6OOOn6Jf/project-1
+[TRELLO:  User Stories](https://trello.com/b/6OOOn6Jf/project-1)
+
+###Level 1
+![Level 1] (assets/Project1_GridLock_Level01.png)
+
+###Level 2
+![Level 2] (assets/Project1_GridLock_Level02.png)
