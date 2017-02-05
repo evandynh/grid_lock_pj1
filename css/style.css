@@ -1,0 +1,33 @@
+
+#canvas {
+  width: 500px;
+  margin: 50px auto;
+}
+
+#level {
+  border: 3px solid lightgrey;
+  margin: 12px 21px;
+  display: inline-block;
+  font-size: 33px;
+  color: crimson;
+  padding: 3px 10px;
+  border-radius: 10px;
+}
+
+#reset {
+  float: right;
+  margin: 15px 30px;
+  width: 127px;
+  height: 48px;
+  font-size: 33px;
+  color: crimson;
+  border-radius: 10px;
+  background-color: white;
+}
+
+h1 {
+  margin: 36px 0 0px 61px;
+  color: crimson;
+  font-size: 52px;
+  font-style: italic;
+}
